@@ -41,7 +41,7 @@ ckanext-georchestra
 Requirements
 ------------
 
-- CKAN 2.8
+- CKAN 2.8.1
 - geOrchestra Security Proxy
 
 
