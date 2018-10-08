@@ -1,3 +1,11 @@
+=====
+Do not use this repo, go to: https://github.com/georchestra/ckanext-georchestra
+=====
+
+
+
+
+
 .. You should enable this project on travis-ci.org and coveralls.io to make
    these badges work. The necessary Travis and Coverage config files have been
    generated for you.
